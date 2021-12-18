@@ -1,1 +1,7 @@
 Documentation/assets/js
+'prettier/prettier': [
+  'error',
+  {
+    'endOfLine': 'auto',
+  }
+]
